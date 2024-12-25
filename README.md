@@ -26,10 +26,9 @@
 - Linear Regression
 
 ## Repository Structure
-/notebooks
+/notebook_with_data
     /code
         - Ask_Poe.ipynb
-/data
     /input
         /house-prices-advanced-regression-techniques
             - data_description.txt
