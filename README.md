@@ -26,6 +26,7 @@
 - Linear Regression
 
 ## Repository Structure
+```
 house-prices-kaggle-comp4433/
 ├── notebook_with_data/
 │   └── code/
@@ -46,6 +47,7 @@ house-prices-kaggle-comp4433/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## How to Run
 1. Clone the repository
