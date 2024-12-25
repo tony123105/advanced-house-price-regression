@@ -26,25 +26,27 @@
 - Linear Regression
 
 ## Repository Structure
-/notebook_with_data
-    /code
-        - Ask_Poe.ipynb
-    /input
-        /house-prices-advanced-regression-techniques
-            - data_description.txt
-            - sample_submission.csv
-            - test.csv
-            - train.csv
-    /output
-        - submission.csv
-/docs
-    - Individual_22080624.pdf
-    - Presentation_slides_AskPoe.pptx
-    - Report_AskPoe.pdf
-    - Video_presentation_AskPoe.mp4
-.gitignore
-README.md
-requirements.txt
+house-prices-kaggle-comp4433/
+├── notebook_with_data/
+│   └── code/
+│       └── Ask_Poe.ipynb
+│   ├── input/
+│   │   └── house-prices-advanced-regression-techniques/
+│   │       ├── data_description.txt
+│   │       ├── sample_submission.csv
+│   │       ├── test.csv
+│   │       └── train.csv
+│   └── output/
+│       └── submission.csv
+├── docs/
+│   ├── Individual_22080624.pdf
+│   ├── Presentation_slides_AskPoe.pptx
+│   ├── Report_AskPoe.pdf
+│   └── Video_presentation_AskPoe.mp4
+├── .gitignore
+├── README.md
+└── requirements.txt
+
 ## How to Run
 1. Clone the repository
 2. Install requirements: `pip install -r requirements.txt`
